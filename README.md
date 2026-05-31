@@ -11,4 +11,5 @@ Tools Used:
 - Python
 - VS Code
 - GitHub
- This project was developed as part of the AI Foundations & Developer Environment assignment.
+- This project was developed as part of the AI Foundations & Developer Environment assignment.
+- Technologies Used: Python,JSON,APIs, GitHub.
